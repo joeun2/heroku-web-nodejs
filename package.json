@@ -1,0 +1,24 @@
+{
+  "name": "heroku-web-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joeun2/heroku-web-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joeun2/heroku-web-nodejs/issues"
+  },
+  "homepage": "https://github.com/joeun2/heroku-web-nodejs#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
